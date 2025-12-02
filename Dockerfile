@@ -7,3 +7,4 @@ COPY target/*.war /usr/local/tomcat/webapps/ROOT.war
 # Start Tomcat
 CMD ["catalina.sh", "run"]
 #added comments
+#added more comments for poll scm
